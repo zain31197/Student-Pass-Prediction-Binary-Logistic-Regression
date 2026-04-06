@@ -30,7 +30,7 @@ This project builds a binary classification model to determine whether a student
 ## Project Structure
 
 ```
-├── 23i2582_ZainShahid_DS6A_lab10.ipynb     # Main notebook
+├── Student-Pass-Prediction-Binary-Logistic-Regression.ipynb    # Main notebook
 ├── Binary_Logistic_Regression_...xlsx      # Source dataset
 └── README.md
 ```
@@ -121,7 +121,7 @@ where z = b0 + b1·Study_Hours + b2·Attendance + ... + b5·Lab
 pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
 
 # Launch the notebook
-jupyter notebook 23i2582_ZainShahid_DS6A_lab10.ipynb
+jupyter notebook Student-Pass-Prediction-Binary-Logistic-Regression.ipynb
 ```
 
 Make sure `Binary_Logistic_Regression_Student_Dataset_160.xlsx` is in the **same directory** as the notebook.
